@@ -3,7 +3,7 @@ Atividade com o tema Campanha de Vacinação para Cães e Gatos
 
 A atividade consiste na automatização de aplicação de 3 vacinas diferentes durante uma campanha de vacinação de cães e gatos. 
 Antes de iniciar a vacinação, o usuário/dono do animal deve garantir a segurança do bichinho de estimação, colocando uma coleira ou prendendo o animal numa gaiola para poder prosseguir. Após a confirmação pelo usuário, o programa pergunta a espécie do animal (gato ou cachorro) e o nome do pet. 
-A cada vez que o pet toma uma vacina é apresentado na tela Vacina <n> OK onde n é o número da vacina. Depois de vacinar e apresentar o relatório do animal, é perguntado se há mais algum animal a ser cadastrado. Quando não houver outro animal a ser cadastrado, o programa mostrará a quantidade total de animais que participaram da campanha.
+A cada vez que o pet toma uma vacina é apresentado na tela "Vacina n OK" onde n é o número da vacina. Depois de vacinar e apresentar o relatório do animal, é perguntado se há mais algum animal a ser cadastrado. Quando não houver outro animal a ser cadastrado, o programa mostrará a quantidade total de animais que participaram da campanha.
 
 - Realizado para a Disciplina Database Application & Data Science.
 - Foram utilizadas as estruturas de repetição for e while, bem como estruturas condicionais if e else para atender ao escopo do trabalho. 
